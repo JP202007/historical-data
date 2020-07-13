@@ -1,0 +1,2 @@
+,code,detail,data,market_name
+candleInterval,BAD_REQUEST,Refer to the data field for specific field validation failures or extra fields in the body that were rejected.,"[""The value 'DAY_1/historical/' is not valid for CandleInterval.""]",OCEAN-USD
